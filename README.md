@@ -2,7 +2,7 @@
 
 
 ### 🚀 About Me
-I'm Mahmoud Mokrane, an enthusiastic 🎓 data science student with a passion for machine learning and AI. Currently pursuing an engineering degree at IMT Atlantique. I'm constantly exploring new technologies and seeking opportunities to apply my skills in real-world scenarios.
+I'm Mahmoud Mokrane, an enthusiastic 🎓 Data Science student with a passion for Machine Learning and AI. Currently pursuing an engineering degree at IMT Atlantique. I'm constantly exploring new technologies and seeking opportunities to apply my skills in real-world scenarios.
 
 ### 🚀 Current Focus:
 

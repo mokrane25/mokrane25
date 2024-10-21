@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+there%2C+I'm+Mahmoud+Mokrane)](https://git.io/typing-svg)
 
-## 🎓 Data Science Student
-
 
 ### 🚀 About Me
-I'm Mahmoud Mokrane, an enthusiastic data science student with a passion for machine learning and AI. Currently pursuing an engineering degree at IMT Atlantique. I'm constantly exploring new technologies and seeking opportunities to apply my skills in real-world scenarios.
+I'm Mahmoud Mokrane, an enthusiastic 🎓 data science student with a passion for machine learning and AI. Currently pursuing an engineering degree at IMT Atlantique. I'm constantly exploring new technologies and seeking opportunities to apply my skills in real-world scenarios.
 
 ### 🚀 Current Focus:
 

@@ -1,19 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+there%2C+I'm+Mahmoud+Mokrane)](https://git.io/typing-svg)
 
-### 🚀 About Me
-I'm an enthusiastic 🎓 Data Science student with a passion for Machine Learning and AI. Currently pursuing an engineering degree at IMT Atlantique. I'm constantly exploring new technologies and seeking opportunities to apply my skills in real-world scenarios.
+### 🎓 About Me
+I'm an enthusiastic Data Science student with a passion for Machine Learning and AI. Currently pursuing an engineering degree at IMT Atlantique. I'm constantly exploring new technologies and seeking opportunities to apply my skills in real-world scenarios.
 
 ### 🚀 Current Focus:
 
 - 🎓 Diving deep into Data Science, Machine Learning, and AI
 - 🌐 Exploring and contributing to innovative data-driven projects
 - 📊 Seeking challenging opportunities in the field of data analytics and AI
-
-### 👯 I'm eager to collaborate on:
-
-- Data science and machine learning projects
-- Cutting-edge AI applications
-- Anything involving data analysis and problem-solving
 
 ### 🤝 Let's connect!
 <a href="https://www.linkedin.com/in/mahmoud-mokrane/">

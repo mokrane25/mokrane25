@@ -1,6 +1,7 @@
-# 👨‍💻 Mahmoud Mokrane
+# 👨‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=bold&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+there%2C+I'm+Mahmoud+Mokrane)](https://git.io/typing-svg)
 
-## 🎓 Data Science Student | 🔍 Seeking End-of-Studies Internship from April 2025
+
+## 🎓 Data Science Student
 
 
 ### 🚀 About Me
@@ -21,6 +22,9 @@ I'm Mahmoud Mokrane, an enthusiastic data science student with a passion for mac
 ### 🤝 Let's connect!
 
 - LinkedIn : https://www.linkedin.com/in/mahmoud-mokrane/
+<a href="https://www.linkedin.com/in/mahmoud-mokrane/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
 
 --- 
 

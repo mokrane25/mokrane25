@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+there%2C+I'm+Mahmoud+Mokrane)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A8A8A&random=false&width=435&lines=Hello+there%2C+I'm+Mahmoud+Mokrane)](https://git.io/typing-svg)
 
 ### 🎓 About Me
 I'm an enthusiastic Data Science student with a passion for Machine Learning and AI. Currently pursuing an engineering degree at IMT Atlantique. I'm constantly exploring new technologies and seeking opportunities to apply my skills in real-world scenarios.
